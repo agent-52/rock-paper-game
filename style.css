@@ -1,0 +1,98 @@
+body{
+    background-color: rgb(39, 38, 38);
+    display: flex;
+    flex-direction: column;
+
+}
+.mainheading{
+    color: gold;
+    background-color: black;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bolder;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    margin-bottom: ;
+}
+.box2{
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: rgba(0, 0, 0, 0.438);
+    padding-top: 10px;
+}
+.i{
+    width: 200px;
+}
+.subheading{
+    color: plum;
+    font-size: xx-large;
+    font-weight: bold;
+    margin-left: px;
+    text-align: center;
+}
+.text1{
+    color: aquamarine;
+    font-size: larger;
+    font-weight: 500;
+    text-align: center;
+}
+.box3{
+    display: flex;
+    padding-top: ;
+    justify-content: space-evenly;
+    padding-top: 20px;
+    background-color: rgb(0, 0, 0);
+}
+.i2{
+    width: 170px;
+}
+.superheading{
+    color: red;
+    font-size: xx-large;
+    font-weight: bolder;
+    align-self: center;
+}
+.subheading{
+    margin-top: 15px;
+    margin-bottom: 25px;
+    color: aqua;
+}
+.box4_1{
+    display: flex;
+    justify-content: space-evenly;
+}
+.ii{
+    width: 80px;
+}
+button{
+    width: 100px;
+    height: 100px;
+    border: 5px solid rgb(236, 146, 232);
+    border-radius: 10px;
+    background-color: ;
+}
+.scoreboard{
+    color: aqua;
+}
+.score-info{
+    text-align: center;
+    color: gold;
+    font-size: xx-large;
+}
+.score-message{
+    text-align: center;
+    color: greenyellow;
+    font-size: x-large;
+}
+.Tonyscore{
+    text-align: center;
+    color: aquamarine;
+    font-size: larger;
+    font-weight: bold;
+}
+.Ultronscore{
+    text-align: center;
+    color: aquamarine;
+    font-size: larger;
+    font-weight: bold;
+}
